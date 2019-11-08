@@ -1,0 +1,8 @@
+<html>
+       <head>
+              <title>孔维婷我爱你</title>
+       </head>
+       <body>
+       <span id="s_kw_wrap" class="bg s_ipt_wr quickdelete-wrap"><span class="soutu-btn"></span><input type="text" class="s_ipt" name="wd" id="kw" maxlength="100" autocomplete="off"><a href="javascript:;" id="quickdelete" title="清空" class="quickdelete" style="top: 0px; right: 0px; display: none;"></a></span>
+       </body>
+</html>
